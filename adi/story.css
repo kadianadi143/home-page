@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.ep1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: aqua;
+   opacity: 30%;
+
+}
+.story{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(bgg.jpg);
+    background-size: cover;
+    background-position: center;
+
+   
+ 
+}
+.ep2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(26, 217, 153);
+opacity: 70%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(vd.jpg);
+}
+.ep3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(236, 159, 44);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(vd.jpg);
+}
+.ep4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep6{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep7{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep8{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep9{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep10{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep11{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep12{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep13{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep14{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep15{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep16{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep17{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep18{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep19{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep20{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep21{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
+.ep22{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(215, 23, 100);
+  opacity: 80%;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(ep4.jpg);
+ background-position: center;
+ 
+}
